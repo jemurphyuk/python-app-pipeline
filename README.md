@@ -45,6 +45,6 @@ Follow the instructions to download via the various options given.
 
 - Our next steps will be looking to connect this to our own master and EC2 AMI, to trigger sporadically and not rely on an open slave node
 
--you are a beautiful person
+- you are a beautiful person
 - in every single way
--words cant bring me down
+- words cant bring me down
